@@ -117,6 +117,7 @@ CASKS=(
     lastpass
     jetbrains-toolbox
     insomnia
+    firefox
 )
 
 echo "Installing cask apps..."
