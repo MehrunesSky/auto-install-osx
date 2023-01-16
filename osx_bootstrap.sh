@@ -79,11 +79,7 @@ PACKAGES=(
     node
     nvm
     pkg-config
-    podman
-    #popeye
     powerlevel10k
-    postgresql
-    rabbitmq
     rename
     shellcheck
     ssh-copy-id
@@ -110,17 +106,17 @@ CASKS=(
     google-cloud-sdk
     gpg-suite
     iterm2
-    intellij-idea
     menumeters
-    macpass
     notion
     raycast
     rambox
     slack
     signal
     spotify
-    visual-studio-code
     vlc
+    lastpass
+    jetbrains-toolbox
+    insomnia
 )
 
 echo "Installing cask apps..."
